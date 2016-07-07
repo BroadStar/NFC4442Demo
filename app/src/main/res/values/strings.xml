@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NFC4442Demo</string>
+    <string name="action_settings">设置</string>
+    <string name="action_about">关于</string>
+    <string name="ok">确定</string>
+    <string name="write">写入数据</string>
+    <string name="reade">读卡</string>
+    <string name="clear">清空</string>
+    <string name="checkPW">校验密码</string>
+    <string name="initUser">初始化用户区</string>
+    <string name="release">卡片发行</string>
+    <string name="writeSecureBlock">写安全区</string>
+    <string name="readSecureBlock">读安全区</string>
+    <string name="readProtectedBlock">读保护区</string>
+    <string name="writeProtectedBlock">写保护区</string>
+    <string name="address">地址</string>
+    <string name="data">数据</string>
+</resources>
